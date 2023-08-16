@@ -1,0 +1,6 @@
+.Piano {
+    display:flex;
+    width: 33%;
+    height: 66%;
+    min-height: 200px;
+}
