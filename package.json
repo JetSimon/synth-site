@@ -1,5 +1,6 @@
 {
   "name": "synth-site",
+  "homepage": "http://jetsimon.com/synth-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
