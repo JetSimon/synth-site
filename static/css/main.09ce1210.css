@@ -1,0 +1,2 @@
+.white{background-color:#fff;max-width:50px;min-width:30px}.black,.white{border-radius:2px;max-height:180px;outline:none;width:100%}.black{background-color:#000;margin-bottom:70px;max-width:20px}.black.pressed{background-color:dimgray}.white.pressed{background-color:#dadada}.Piano{height:66%;min-height:200px;width:33%}.App,.Piano{display:flex}.App{align-items:center;justify-content:center;margin:auto;width:100%}#app,#app>div,#root,.App,body,html{height:100%}#root{width:100%}
+/*# sourceMappingURL=main.09ce1210.css.map*/
